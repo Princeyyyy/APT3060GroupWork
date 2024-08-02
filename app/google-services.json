@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405996297684",
+    "project_id": "drinks-business",
+    "storage_bucket": "drinks-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405996297684:android:c422091f55c8f732b10a41",
+        "android_client_info": {
+          "package_name": "com.example.apt3060groupproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSnQzk7miewWuWsLAUr9TwkgEGmiNodkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drinks</string>
+
+    <string-array name="branch_array">
+        <item>Headquarters</item>
+        <item>Branch One</item>
+        <item>Branch Two</item>
+        <item>Branch Three</item>
+    </string-array>
+</resources>
